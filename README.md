@@ -1,2 +1,1 @@
-[![Build Status](https://travis-ci.com/springmeyer/codecov-test.svg?branch=master)](https://travis-ci.com/springmeyer/codecov-test)
-[![codecov](https://codecov.io/gh/springmeyer/codecov-test/branch/master/graph/badge.svg)](https://codecov.io/gh/springmeyer/codecov-test)
+# 1
